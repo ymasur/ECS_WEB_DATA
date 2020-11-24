@@ -1,5 +1,5 @@
 # ECS_WEB_DATA
-Arduino part of ECS monitoring
+Arduino Yun part of ECS monitoring
 
 Based on a Arduino Yun, the system get each 10 minutes the temperatures of 3 probes:
 * solar water, incoming
